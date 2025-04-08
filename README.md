@@ -1,6 +1,6 @@
 Hi! I'm Liza 👋 
 ============================
-* ⭐I'm second year software engineering student from Ukraine
+* ⭐I'm third year software engineering student from Ukraine
 * ⭐Love to play games and want to create them
 
 ### Skills
